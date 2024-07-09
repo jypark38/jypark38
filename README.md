@@ -7,11 +7,11 @@
   />
   </kbd>
   <kbd>
-<img
-  src="https://render.gitanimals.org/farms/jypark38"
-  width="600"
-  height="300"
-/>
+  <img
+    src="https://render.gitanimals.org/lines/jypark38?pet-id=598403293075329905&contribution-view=false"
+    width="600"
+    height="120"
+  />
   </kbd>
 </a>
   
