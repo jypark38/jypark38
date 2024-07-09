@@ -9,8 +9,8 @@
   <kbd>
   <img
     src="https://render.gitanimals.org/lines/jypark38?pet-id=598403293075329905&contribution-view=false"
-    width="600"
-    height="120"
+    width="500"
+    height="200"
   />
   </kbd>
 </a>
