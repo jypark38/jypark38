@@ -6,12 +6,12 @@
     height="200"
   />
   </kbd>
-  <a href="https://github.com/devxb/gitanimals">
+  <kbd>
 <img
   src="https://render.gitanimals.org/farms/jypark38"
   width="600"
   height="300"
 />
-</a>
+  </kbd>
 </a>
   
